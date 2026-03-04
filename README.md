@@ -2,3 +2,4 @@
 
 ## Lista de colaboradores
 - Luis Alejandro Abreo 
+- Jesus Sanchez Acevedo
